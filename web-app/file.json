@@ -1,0 +1,152 @@
+﻿[
+    {
+        "macAddress":  "d1:55:42:c8:e4:61",
+        "mapInfo":  {
+                        "mapHierarchyString":  "MAP\u003eINFO\u003eMAP",
+                        "floorRefId":  "floorRefId",
+                        "floorDimension":  "floorDimension",
+                        "image":  "image"
+                    },
+        "mapCoordinate":  {
+                              "x":  35.71979,
+                              "y":  161.8946,
+                              "z":  0.0,
+                              "unit":  "FEET"
+                          },
+        "currentlyTracked":  true,
+        "confidenceFactor":  432.0,
+        "locComputeType":  "RSSI",
+        "statistics":  {
+                           "currentServerTime":  "2022-09-23T11:40:32.008+0800",
+                           "firstLocatedTime":  "2022-07-17T09:30:08.911+0800",
+                           "lastLocatedTime":  "2022-09-23T11:40:23.346+0800",
+                           "maxDetectedRssi":  "maxDetectedRssi"
+                       },
+        "historyLogReason":  "DISTANCE_CHANGE",
+        "geoCoordinate":  null,
+        "rawLocation":  {
+                            "rawX":  -999.0,
+                            "rawY":  -999.0,
+                            "unit":  "FEET"
+                        },
+        "networkStatus":  "ACTIVE",
+        "changedOn":  1663904423346,
+        "ipAddress":  [
+                          "192.168.241.195",
+                          "ipv6"
+                      ],
+        "userName":  "",
+        "ssId":  "ssId",
+        "sourceTimestamp":  null,
+        "band":  "IEEE_802_11_B",
+        "apMacAddress":  "d1:55:42:c8:e4:61",
+        "dot11Status":  "ASSOCIATED",
+        "manufacturer":  "Magic Manufacturer",
+        "areaGlobalIdList":  [
+                             ],
+        "detectingControllers":  "192.168.200.52",
+        "bytesSent":  454109873,
+        "bytesReceived":  140997681,
+        "guestUser":  false
+    },
+    {
+        "macAddress":  "87:a4:ba:3e:d7:ef",
+        "mapInfo":  {
+                        "mapHierarchyString":  "MAP\u003eINFO\u003eMAP",
+                        "floorRefId":  "floorRefId",
+                        "floorDimension":  "floorDimension",
+                        "image":  "image"
+                    },
+        "mapCoordinate":  {
+                              "x":  119.416374,
+                              "y":  181.33194,
+                              "z":  0.0,
+                              "unit":  "FEET"
+                          },
+        "currentlyTracked":  true,
+        "confidenceFactor":  432.0,
+        "locComputeType":  "RSSI",
+        "statistics":  {
+                           "currentServerTime":  "2022-09-23T11:40:32.008+0800",
+                           "firstLocatedTime":  "2022-07-17T09:30:08.911+0800",
+                           "lastLocatedTime":  "2022-09-23T11:40:23.346+0800",
+                           "maxDetectedRssi":  "maxDetectedRssi"
+                       },
+        "historyLogReason":  "DISTANCE_CHANGE",
+        "geoCoordinate":  null,
+        "rawLocation":  {
+                            "rawX":  -999.0,
+                            "rawY":  -999.0,
+                            "unit":  "FEET"
+                        },
+        "networkStatus":  "ACTIVE",
+        "changedOn":  1663904423346,
+        "ipAddress":  [
+                          "192.168.241.195",
+                          "ipv6"
+                      ],
+        "userName":  "",
+        "ssId":  "ssId",
+        "sourceTimestamp":  null,
+        "band":  "IEEE_802_11_B",
+        "apMacAddress":  "d1:55:42:c8:e4:61",
+        "dot11Status":  "ASSOCIATED",
+        "manufacturer":  "Amazing Manufacturer",
+        "areaGlobalIdList":  [
+                             ],
+        "detectingControllers":  "192.168.200.52",
+        "bytesSent":  454109873,
+        "bytesReceived":  140997681,
+        "guestUser":  false
+    },
+    {
+        "macAddress":  "e5:d1:85:68:85:28",
+        "mapInfo":  {
+                        "mapHierarchyString":  "MAP\u003eINFO\u003eMAP",
+                        "floorRefId":  "floorRefId",
+                        "floorDimension":  "floorDimension",
+                        "image":  "image"
+                    },
+        "mapCoordinate":  {
+                              "x":  217.09692,
+                              "y":  302.27838,
+                              "z":  0.0,
+                              "unit":  "FEET"
+                          },
+        "currentlyTracked":  true,
+        "confidenceFactor":  432.0,
+        "locComputeType":  "RSSI",
+        "statistics":  {
+                           "currentServerTime":  "2022-09-23T11:40:32.008+0800",
+                           "firstLocatedTime":  "2022-07-17T09:30:08.911+0800",
+                           "lastLocatedTime":  "2022-09-23T11:40:23.346+0800",
+                           "maxDetectedRssi":  "maxDetectedRssi"
+                       },
+        "historyLogReason":  "DISTANCE_CHANGE",
+        "geoCoordinate":  null,
+        "rawLocation":  {
+                            "rawX":  -999.0,
+                            "rawY":  -999.0,
+                            "unit":  "FEET"
+                        },
+        "networkStatus":  "ACTIVE",
+        "changedOn":  1663904423346,
+        "ipAddress":  [
+                          "192.168.241.195",
+                          "ipv6"
+                      ],
+        "userName":  "",
+        "ssId":  "ssId",
+        "sourceTimestamp":  null,
+        "band":  "IEEE_802_11_B",
+        "apMacAddress":  "d1:55:42:c8:e4:61",
+        "dot11Status":  "ASSOCIATED",
+        "manufacturer":  "Super Manufacturer",
+        "areaGlobalIdList":  [
+                             ],
+        "detectingControllers":  "192.168.200.52",
+        "bytesSent":  454109873,
+        "bytesReceived":  140997681,
+        "guestUser":  false
+    }
+]
